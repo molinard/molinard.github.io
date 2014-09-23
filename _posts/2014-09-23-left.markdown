@@ -1,0 +1,9 @@
+---
+layout: post
+title: First Post!
+category: posts
+---
+
+First Post! I finally settled for Left, a clean whitespace-happy layout for [Jekyll][jekyll].
+
+Tomorrow I'll write how this blog was setup. It won't be aimed to be yet another guide to setup [Jekyll][jekyll] but rather a way for me to trial Jekyll.

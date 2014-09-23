@@ -1,0 +1,34 @@
+# Name of your site (displayed in the header)
+name: Daniel Molinard
+
+# Short bio or description (displayed in the header)
+description: Dan's Blog
+
+# Website URL
+# Used for Sitemap.xml and your RSS feed
+url: http://molinard.github.io
+
+# For more info on markdown visit: http://daringfireball.net/projects/markdown/syntax
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: molinard@gmail.com
+  github: molinard/molinard.github.io
+  twitter: cotydebarth
+  google:
+    plus: molinard
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: 
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
